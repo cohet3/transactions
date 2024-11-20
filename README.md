@@ -30,13 +30,13 @@ Este proyecto automatiza la ingesta, transformación y análisis de grandes vol�
 ### Gráfico de Barras: Transacciones por Ubicación
 ### Gráfico de Líneas: Tendencia Temporal
 ### Mapa Interactivo: Transacciones por Ubicación
-![Gráfico Líneas](images/powerbi.png)
-<video width="640" height="360" controls>
-  <source src="images/transactions.mp4" type="video/mp4">
+![Gráfico Líneas](images/power.gif)
+<!-- <video width="640" height="360" controls>
+  <source src="images/power.gif" type="video/mp4">
   Tu navegador no soporta reproducción de video.
-</video>
+</video> -->
 ## Dataset
 [Descarga Dataset](data/transactions.csv)
 - **transacciones.csv**:
   - Transaction_ID, Account_ID, Amount, Date, Location, Type
-  - Los datos han sido generados artificialmente para poner en práctica el despligue en la nube con grandes volumenes de datos todo con fines educativos.
+  - Los datos han sido generados artificialmente para poner en práctica el despligue en la nube con grandes volumenes de datos y configurar un sencillo pipeline para comprender su funcionamiento todo con fines educativos.
